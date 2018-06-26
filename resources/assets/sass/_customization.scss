@@ -1,0 +1,19 @@
+.bg-yellow {
+  background-color: #fff200;
+}
+
+.comments{
+  > ul{
+    padding-left: 0;
+
+    > li {
+      background: #fff;
+      padding: 10px 20px;
+      border-bottom: 1px solid #efefef;
+    }
+  }
+  ul {
+    list-style: none;
+
+  }
+}
